@@ -1,4 +1,4 @@
-package gr.mammos.practice.java7performance;
+package gr.mammos.practice.java7performance.scenario;
 
 import org.openjdk.jmh.annotations.*;
 import org.openjdk.jmh.infra.Blackhole;
